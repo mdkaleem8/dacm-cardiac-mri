@@ -1,0 +1,8 @@
+.venv/
+work/
+data/
+__pycache__/
+*.pt
+*.pth
+*.npz
+*token*.txt
